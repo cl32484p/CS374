@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\ceela\\.gradle\\daemon\\7.4\\com.example.myfirstapp-mergeDebugResources-40:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ceela\\.gradle\\daemon\\7.4\\com.example.myfirstapp-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ceela\\.gradle\\daemon\\7.4\\com.example.myfirstapp-mergeDebugResources-40:\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\ceela\\.gradle\\daemon\\7.4\\com.example.myfirstapp-main-43:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\ceela\\.gradle\\daemon\\7.4\\com.example.myfirstapp-mergeDebugResources-40:\\layout\\content_main.xml",
+        "source": "C:\\Users\\ceela\\.gradle\\daemon\\7.4\\com.example.myfirstapp-main-43:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "com.example.myfirstapp-mergeDebugResources-40:/layout/fragment_second.xml",
+        "source": "com.example.myfirstapp-main-43:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\ceela\\.gradle\\daemon\\7.4\\com.example.myfirstapp-mergeDebugResources-40:\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\ceela\\.gradle\\daemon\\7.4\\com.example.myfirstapp-main-43:\\layout\\fragment_second.xml"
+    }
+]
