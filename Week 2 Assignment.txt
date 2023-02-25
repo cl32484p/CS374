@@ -1,0 +1,4 @@
+Ceasar Lugo 
+
+Remote Git Repository Link for Week 2 Assignments:
+https://github.com/cl32484p/CS374-Remote
