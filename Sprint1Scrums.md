@@ -3,15 +3,15 @@
 ## Scrum Meeting 1 (11/2/22):
 
 1.	What did I accomplish since the last Scrum?  
-    **Leanna** - Completed Sprint 1 tab in Product Backlog with US and tasks for Sprint 1. Added SprintPlanning.md to GitHub.  
+    **Freddy** - Completed Sprint 1 tab in Product Backlog with US and tasks for Sprint 1. Added SprintPlanning.md to GitHub.  
     **CJ** - Completed Sprint 1 tab in Product Backlog with US and tasks for Sprint 1.
     
 2.	What will I do until the next Scrum?  
-    **Leanna** - Update SprintPlanning.md, Update ReadMe.md, Update Scrum for this meeting, GitHub project/Kanban, Clone repo and make branch. Start tasks.  
+    **Freddy** - Update SprintPlanning.md, Update ReadMe.md, Update Scrum for this meeting, GitHub project/Kanban, Clone repo and make branch. Start tasks.  
     **CJ** - Update Scrum for this meeting, Create Android Studio project, Push to repo and make branch, commit. Create a framework, start tasks and implementing the US. May have to purchase google maps API key. 
     
 3.	What obstacles are impeding my progress?  
-    **Leanna** - It is the start of implementing the project, so it is dificult to figure out how to begin and to orgnize the workflow. I don't have much experience with Android Studio and GitHub so it may take longer to accomplish tasks.  
+    **Freddy** - It is the start of implementing the project, so it is dificult to figure out how to begin and to orgnize the workflow. I don't have much experience with Android Studio and GitHub so it may take longer to accomplish tasks.  
     **CJ** - I need to refresh my mind and become more comfortable with Android studio.
 
 
