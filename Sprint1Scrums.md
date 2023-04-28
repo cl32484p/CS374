@@ -3,8 +3,8 @@
 ## Scrum Meeting 1 (11/2/22):
 
 1.	What did I accomplish since the last Scrum?  
-    **Freddy** - Completed Sprint 1 tab in Product Backlog with US and tasks for Sprint 1. Added SprintPlanning.md to GitHub.  
-    **CJ** - Completed Sprint 1 tab in Product Backlog with US and tasks for Sprint 1.
+    **Freddy** -
+    **CJ** - 
     
 2.	What will I do until the next Scrum?  
     **Freddy** - Update SprintPlanning.md, Update ReadMe.md, Update Scrum for this meeting, GitHub project/Kanban, Clone repo and make branch. Start tasks.  
